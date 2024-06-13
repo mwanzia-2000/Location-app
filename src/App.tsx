@@ -20,7 +20,7 @@ export const App: React.FC = () => {
     <Router>
       {/* Routes component to define routes */}
       <Routes>
-        {/* Route component to define a route */}
+        {/* Route component to define a route */}history
         <Route path="/" element={<Landing />} />
       </Routes>
     </Router>
